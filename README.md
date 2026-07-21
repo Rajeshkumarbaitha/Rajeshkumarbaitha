@@ -1,11 +1,10 @@
-.
 <div align="center">
 
 <!-- Waving header banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Rajesh%20Kumar%20Baitha&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Rajesh%20Kumar%20Baitha&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CS(IoT)%20Student&descAlignY=55&descSize=18)
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN)+%7C+CS(IoT)+Student;Building+CMS%2C+RealWorld+App+%26+Chess+Game;TPO+Coordinator+%7C+150%2B+LeetCode+Problems+Solved;Open+to+Internship+%26+Entry-Level+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN)+%7C+CS(IoT)+Student;Building+CMS%2C+RealWorld+App+%26+Chess+Game;TPO+Coordinator+%7C+147%2B+LeetCode+Problems+Solved;Open+to+Internship+%26+Entry-Level+Opportunities)](https://git.io/typing-svg)
 
 <!-- Open to work badge -->
 ![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry--Level%20Roles-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=white)
@@ -24,6 +23,7 @@
 const rajeshKumarBaitha = {
   title: "Full-Stack Developer (aspiring) | B.Tech CS(IoT) Student",
   location: "Government Engineering College, Siwan, India",
+  cgpa: "8.04 / 10",
   stack: {
     languages: ["JavaScript", "Python", "C", "C++", "SQL"],
     frontend: ["React.js", "HTML", "CSS", "PostCSS"],
@@ -38,6 +38,7 @@ const rajeshKumarBaitha = {
   ],
   certifications: [], // none listed yet
   status: "Training & Placement Officer (TPO) Coordinator @ GEC Siwan",
+  problemSolving: "147+ problems solved on LeetCode",
   openTo: ["Internships", "Entry-Level Full-Stack Roles", "Collaboration on Web Projects"]
 };
 ```
